@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XQiomDBbn+nZMoKc75czzHntXjaiKAUezVoFWB3MQ8FukiRrCC+Iex/skK76s5GWcMWVaeAk9nzQdv+xf+/xIQ==",
+  "dgSpecHash": "SzLWfk+zeQv77wv0oDoOt4U7KXM2lBhfkY46l6ixg4uU+rwkmr7adzlh9OacvpdlePeLbNf5Z+2AhjE+omgxkA==",
   "success": true,
   "projectFilePath": "/Users/s2200692/ASP-net-harjoitukset/SignalRChat/SignalRChat/SignalRChat.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/s2200692/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/s2200692/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.14/microsoft.netcore.app.host.osx-arm64.6.0.14.nupkg.sha512",
+    "/Users/s2200692/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

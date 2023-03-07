@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/SignalRChat.bundle.scp.css"
     },
     {
+      "Id": "/Users/s2200692/ASP-net-harjoitukset/SignalRChat/SignalRChat/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/s2200692/ASP-net-harjoitukset/SignalRChat/SignalRChat/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

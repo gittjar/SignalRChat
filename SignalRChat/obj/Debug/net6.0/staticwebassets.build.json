@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DC49s7RV8Hpj2vNIXPQUMqdjU7A1P0h4o9J/7hPdHrE=",
+  "Hash": "hdeyePQEubrJ4tsfZY7fG+sLe4PJcQ+0pW48NF5nnpw=",
   "Source": "SignalRChat",
   "BasePath": "_content/SignalRChat",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/s2200692/ASP-net-harjoitukset/SignalRChat/SignalRChat/obj/Debug/net6.0/scopedcss/projectbundle/SignalRChat.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/s2200692/ASP-net-harjoitukset/SignalRChat/SignalRChat/wwwroot/.DS_Store",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/s2200692/ASP-net-harjoitukset/SignalRChat/SignalRChat/wwwroot/",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/s2200692/ASP-net-harjoitukset/SignalRChat/SignalRChat/wwwroot/css/site.css",
